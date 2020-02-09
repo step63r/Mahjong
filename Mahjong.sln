@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minato.Mahjong", "Mahjong\Minato.Mahjong.csproj", "{B9F231E1-9352-4CD7-8479-6B05C5993342}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC450252-6FB7-4461-BE26-C5E7445A94D4}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F231E1-9352-4CD7-8479-6B05C5993342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F231E1-9352-4CD7-8479-6B05C5993342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F231E1-9352-4CD7-8479-6B05C5993342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F231E1-9352-4CD7-8479-6B05C5993342}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EBE97D2-FA92-4CBC-9562-07C9BB85B27D}
+	EndGlobalSection
+EndGlobal
